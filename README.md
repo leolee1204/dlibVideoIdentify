@@ -7,5 +7,5 @@
 ```
 
 ### Identify
-![](https://github.com/leolee1204/openAIDjango/blob/5c82ed0c931625170f17ff1b6467fd51d146c2c1/temp/step-1.jpg)
+![](https://github.com/leolee1204/dlibVideoIdentify/blob/d3b84c7d3a2e1057383e7ea92637b16a56b2b115/result.gif)
 
